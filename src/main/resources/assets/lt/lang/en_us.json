@@ -1,0 +1,10 @@
+{
+  "entity.lt.bloody_fiend": "Bloody Fiend",
+  "item.lt.bloody_fiend_spawn_egg": "Spawn Bloody Fiend",
+  "effect.lt.blood_curse": "Blood Curse",
+  "effect.lt.anti_healing": "Anti Healing",
+  "death.attack.lt_self_destruct": "%1$s was torn apart by %2$s",
+  "death.attack.lt_override": "%1$s was overwhelmed by %2$s",
+  "death.attack.lt_contact": "%1$s was crushed",
+  "death.attack.lt_contact.player": "%1$s was crushed while fighting %2$s"
+}

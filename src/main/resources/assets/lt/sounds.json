@@ -1,0 +1,6 @@
+{
+  "mob.lt_blood_fiend.ambient": { "sounds": [ "lt:mob/blood_fiend/ambient1", "lt:mob/blood_fiend/ambient2" ] },
+  "mob.lt_blood_fiend.hurt":    { "sounds": [ "lt:mob/blood_fiend/hurt" ] },
+  "mob.lt_blood_fiend.death":   { "sounds": [ "lt:mob/blood_fiend/death" ] },
+  "mob.lt_bloody_fiend.smash":  { "sounds": [ "lt:mob/blood_fiend/smash" ] }
+}

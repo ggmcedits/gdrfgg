@@ -1,0 +1,10 @@
+{
+  "entity.lt.bloody_fiend": "血腥巨煞",
+  "item.lt.bloody_fiend_spawn_egg": "生成 血腥巨煞",
+  "effect.lt.blood_curse": "血咒",
+  "effect.lt.anti_healing": "治疗抗性",
+  "death.attack.lt_self_destruct": "%1$s 被 %2$s 撕裂了",
+  "death.attack.lt_override": "%1$s 被 %2$s 压垮了",
+  "death.attack.lt_contact": "%1$s 被压碎了",
+  "death.attack.lt_contact.player": "%1$s 在与 %2$s 战斗时被压碎了"
+}
