@@ -790,7 +790,7 @@ public class BloodyFiendEntity extends Monster implements GeoEntity {
             Blocks.PUMPKIN, Blocks.PUMPKIN_STEM, Blocks.ATTACHED_PUMPKIN_STEM, Blocks.RED_MUSHROOM, Blocks.CRIMSON_FUNGUS,
             Blocks.WARPED_FUNGUS, Blocks.CRIMSON_ROOTS, Blocks.WARPED_ROOTS, Blocks.NETHER_SPROUTS, Blocks.SUGAR_CANE, Blocks.KELP,
             Blocks.KELP_PLANT, Blocks.BEE_NEST, Blocks.SEAGRASS, Blocks.TALL_SEAGRASS, Blocks.SEA_PICKLE, Blocks.SNOW,
-            Blocks.SWEET_BERRY_BUSH, Blocks.GRASS, Blocks.FERN, Blocks.TURTLE_EGG, Blocks.FROG_SPAWN, Blocks.VINE, Blocks.LILY_PAD,
+            Blocks.SWEET_BERRY_BUSH, Blocks.GRASS, Blocks.FERN, Blocks.TURTLE_EGG, Blocks.FROGSPAWN, Blocks.VINE, Blocks.LILY_PAD,
             Blocks.WHEAT, Blocks.AZALEA, Blocks.FLOWERING_AZALEA, Blocks.CAVE_VINES, Blocks.CAVE_VINES_PLANT, Blocks.WEEPING_VINES,
             Blocks.WEEPING_VINES_PLANT, Blocks.TWISTING_VINES, Blocks.TWISTING_VINES_PLANT, Blocks.SMALL_DRIPLEAF, Blocks.BIG_DRIPLEAF,
             Blocks.BIG_DRIPLEAF_STEM, Blocks.SPORE_BLOSSOM, Blocks.HANGING_ROOTS, Blocks.MANGROVE_ROOTS, Blocks.MUDDY_MANGROVE_ROOTS,
